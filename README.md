@@ -20,4 +20,4 @@ The project runs in a loop, allowing users to repeatedly provide spoken input un
 From an educational perspective, this project introduces students and developers to key concepts in audio signal processing, API integration, and real-time interaction systems. It also provides a foundation for building more advanced systems, such as language translation, emotion detection, or multi-language recognition platforms.**
 
 OUTPUT:
-
+![Image](https://github.com/user-attachments/assets/49179465-d8b6-494a-b5c8-b3400856bf41)
