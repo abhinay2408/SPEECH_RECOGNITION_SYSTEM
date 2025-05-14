@@ -18,3 +18,6 @@ The core of the system is built using the speech_recognition module, which provi
 Once the microphone captures the input, the recognizer processes the audio data and sends it to Google's API for transcription. The resulting text is printed to the console. The program is designed to handle basic errors gracefully, such as situations where the speech is unclear or if there's no internet connection.
 The project runs in a loop, allowing users to repeatedly provide spoken input until they choose to exit. This real-time interaction loop is an important feature for applications requiring continuous voice-based input, such as accessibility tools, transcription services, or command interfaces for hands-free control.
 From an educational perspective, this project introduces students and developers to key concepts in audio signal processing, API integration, and real-time interaction systems. It also provides a foundation for building more advanced systems, such as language translation, emotion detection, or multi-language recognition platforms.**
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/8c602eb9-0726-4458-96d8-c45f81309660)
